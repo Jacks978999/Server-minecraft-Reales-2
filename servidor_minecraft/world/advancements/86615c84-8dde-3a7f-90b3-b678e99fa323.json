@@ -494,6 +494,7 @@
       "minecraft:creeper": "2025-03-07 03:40:44 +0000",
       "minecraft:zombified_piglin": "2025-03-08 02:20:39 +0000",
       "minecraft:cave_spider": "2025-03-07 00:06:56 +0000",
+      "minecraft:piglin": "2025-03-08 22:49:49 +0000",
       "minecraft:zombie": "2025-03-06 23:43:15 +0000",
       "quark:foxhound": "2025-03-07 03:27:36 +0000"
     },
@@ -770,7 +771,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-08 05:12:52 +0000"
+      "minecraft:nether_wastes": "2025-03-08 05:12:52 +0000",
+      "minecraft:basalt_deltas": "2025-03-08 22:46:32 +0000"
     },
     "done": false
   },
