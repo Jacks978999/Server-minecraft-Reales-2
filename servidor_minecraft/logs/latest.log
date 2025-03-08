@@ -879,3 +879,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [08Mar2025 23:10:17.186] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
 [08Mar2025 23:10:40.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
 [08Mar2025 23:10:40.984] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:21:23.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has reached the goal [A Piece of Otherworld]
+[08Mar2025 23:21:56.475] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/45851, l='ServerLevel[world]', x=148.00, y=31.00, z=-163.00] as it would cause deadlock
+[08Mar2025 23:24:45.372] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46736, l='ServerLevel[world]', x=359.00, y=31.00, z=-610.00] as it would cause deadlock

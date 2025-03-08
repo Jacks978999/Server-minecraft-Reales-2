@@ -467,6 +467,7 @@
       "cooked_beef": "2025-03-06 01:35:18 +0000",
       "baked_potato": "2025-03-06 01:43:21 +0000",
       "bread": "2025-03-06 21:31:14 +0000",
+      "golden_apple": "2025-03-08 23:19:32 +0000",
       "cookie": "2025-03-06 21:59:31 +0000",
       "rotten_flesh": "2025-03-06 21:23:51 +0000",
       "cooked_chicken": "2025-03-06 01:34:14 +0000",
@@ -787,7 +788,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-03-07 03:25:30 +0000",
       "minecraft:soul_sand_valley": "2025-03-07 03:55:24 +0000",
-      "minecraft:basalt_deltas": "2025-03-07 03:58:24 +0000"
+      "minecraft:basalt_deltas": "2025-03-07 03:58:24 +0000",
+      "minecraft:warped_forest": "2025-03-08 23:21:23 +0000"
     },
     "done": false
   },
@@ -902,6 +904,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-08 22:32:15 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-03-08 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2025-03-08 23:20:45 +0000"
     },
     "done": true
   },
