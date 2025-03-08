@@ -864,3 +864,18 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [08Mar2025 23:02:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> tienes los huesos?
 [08Mar2025 23:02:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> por que creo no los agarre
 [08Mar2025 23:02:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> Ah si
+[08Mar2025 23:05:01.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks withered away
+[08Mar2025 23:05:01.791] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:06:22.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 has made the advancement [Splintering II]
+[08Mar2025 23:09:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:09:03.446] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:09:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:09:28.000] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:09:38.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Revan_0429 lost connection: Disconnected
+[08Mar2025 23:09:38.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 left the game
+[08Mar2025 23:09:52.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:09:52.985] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:10:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:10:17.186] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:10:40.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:10:40.984] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
