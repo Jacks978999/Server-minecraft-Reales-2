@@ -830,3 +830,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [08Mar2025 22:24:35.192] [Server thread/INFO] [Jade/]: Syncing config to Jacks (04b21637-b735-3578-b820-60468e5cd996)
 [08Mar2025 22:27:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to 3981.500000, -53.000000, -1038.500000]
 [08Mar2025 22:32:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks has made the advancement [Not Today, Thank You]
+[08Mar2025 22:38:07.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Revan_0429[/127.27.169.220:45899] logged in with entity id 5624 at (3824.936060969457, 65.5625, -693.2971133913718)
+[08Mar2025 22:38:07.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 joined the game
+[08Mar2025 22:38:08.014] [Server thread/INFO] [Jade/]: Syncing config to Revan_0429 (86615c84-8dde-3a7f-90b3-b678e99fa323)
+[08Mar2025 22:40:10.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 burned to death
+[08Mar2025 22:40:10.749] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[08Mar2025 22:40:10.810] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6771, l='ServerLevel[world]', x=579.00, y=31.00, z=6.00] as it would cause deadlock
+[08Mar2025 22:43:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks fell from a high place
+[08Mar2025 22:43:51.845] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved

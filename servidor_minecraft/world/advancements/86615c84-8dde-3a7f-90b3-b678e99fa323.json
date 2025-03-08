@@ -738,33 +738,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wither": {
-    "criteria": {
-      "has_item": "2025-03-08 05:15:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-03-08 05:12:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-08 05:12:50 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:main/oni": {
     "criteria": {
       "kill": "2025-03-08 04:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-08 05:12:50 +0000"
     },
     "done": true
   },
@@ -774,15 +750,39 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/root": {
     "criteria": {
-      "blaze_rod": "2025-03-08 05:15:43 +0000"
+      "entered_nether": "2025-03-08 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-08 05:12:50 +0000"
     },
     "done": true
   },
   "netheroverhaul:bruger_the_burger": {
     "criteria": {
       "bruger_the_burger": "2025-03-08 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-08 05:12:52 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-03-08 05:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-08 05:15:43 +0000"
     },
     "done": true
   },
