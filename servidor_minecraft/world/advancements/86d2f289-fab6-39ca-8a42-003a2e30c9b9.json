@@ -342,14 +342,18 @@
       "shrubland": "2025-03-06 21:36:12 +0000",
       "rocky_shrubland": "2025-03-06 21:34:04 +0000",
       "scrubland": "2025-03-07 01:44:24 +0000",
+      "erupting_inferno": "2025-03-07 03:53:14 +0000",
       "floodplain": "2025-03-07 00:50:06 +0000",
       "highland": "2025-03-06 01:55:25 +0000",
       "jade_cliffs": "2025-03-06 02:05:56 +0000",
       "old_growth_woodland": "2025-03-07 00:58:47 +0000",
+      "crystalline_chasm": "2025-03-07 03:54:37 +0000",
+      "withered_abyss": "2025-03-07 03:52:08 +0000",
       "overgrown_greens": "2025-03-06 02:18:39 +0000",
       "mediterranean_forest": "2025-03-07 01:03:25 +0000",
       "coniferous_forest": "2025-03-06 01:19:50 +0000",
       "redwood_forest": "2025-03-06 01:54:48 +0000",
+      "visceral_heap": "2025-03-07 03:52:11 +0000",
       "dune_beach": "2025-03-06 01:20:45 +0000",
       "seasonal_forest": "2025-03-06 01:38:33 +0000",
       "pasture": "2025-03-06 01:20:56 +0000",
@@ -430,13 +434,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-07 04:04:06 +0000",
       "minecraft:pillager": "2025-03-07 01:52:38 +0000",
       "minecraft:skeleton": "2025-03-06 02:00:54 +0000",
+      "minecraft:magma_cube": "2025-03-07 03:59:16 +0000",
       "minecraft:spider": "2025-03-06 01:38:29 +0000",
       "minecraft:creeper": "2025-03-06 22:45:22 +0000",
+      "quark:forgotten": "2025-03-07 05:57:10 +0000",
       "minecraft:witch": "2025-03-06 23:46:19 +0000",
+      "minecraft:wither_skeleton": "2025-03-07 03:57:52 +0000",
       "minecraft:cave_spider": "2025-03-06 22:35:34 +0000",
-      "minecraft:zombie": "2025-03-06 01:33:20 +0000"
+      "minecraft:zombie": "2025-03-06 01:33:20 +0000",
+      "quark:foxhound": "2025-03-07 03:45:36 +0000"
     },
     "done": false
   },
@@ -541,6 +550,7 @@
       "minecraft:dark_forest": "2025-03-06 02:07:58 +0000",
       "minecraft:river": "2025-03-06 01:48:57 +0000",
       "minecraft:lukewarm_ocean": "2025-03-06 23:44:45 +0000",
+      "minecraft:stony_shore": "2025-03-07 05:19:56 +0000",
       "minecraft:forest": "2025-03-06 01:55:20 +0000",
       "minecraft:ocean": "2025-03-06 21:39:11 +0000",
       "minecraft:flower_forest": "2025-03-06 01:49:17 +0000",
@@ -713,39 +723,15 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-03-07 02:51:07 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/bone_knight": {
-    "criteria": {
-      "kill": "2025-03-07 01:06:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-03-07 01:05:38 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/deathword": {
-    "criteria": {
-      "kill": "2025-03-07 01:08:30 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/cecaelia": {
-    "criteria": {
-      "kill": "2025-03-07 02:05:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-07 00:51:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 00:54:37 +0000"
     },
     "done": true
   },
@@ -755,9 +741,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "voluntary_exile": "2025-03-07 01:52:42 +0000"
+      "cave_book": "2025-03-07 01:05:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-07 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-03-07 01:06:57 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-03-07 01:08:30 +0000"
     },
     "done": true
   },
@@ -767,9 +771,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-07 01:52:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-07 01:56:45 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-03-07 02:05:03 +0000"
     },
     "done": true
   },
@@ -779,15 +795,144 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "immersive_armors:recipes/misc/heavy": {
     "criteria": {
-      "cave_tablet": "2025-03-07 01:05:47 +0000"
+      "has_item": "2025-03-07 02:51:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "minecraft:nether/root": {
     "criteria": {
-      "coded_trigger": "2025-03-07 00:54:37 +0000"
+      "entered_nether": "2025-03-07 03:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-07 03:23:52 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-03-07 03:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-07 03:23:54 +0000",
+      "minecraft:soul_sand_valley": "2025-03-07 03:54:28 +0000",
+      "minecraft:basalt_deltas": "2025-03-07 03:43:52 +0000",
+      "minecraft:warped_forest": "2025-03-07 03:52:27 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-07 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-03-07 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-07 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2025-03-07 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-03-07 03:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-07 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-03-07 04:27:14 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/gravemite": {
+    "criteria": {
+      "kill": "2025-03-07 04:55:11 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mummy": {
+    "criteria": {
+      "kill": "2025-03-07 04:55:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-07 05:20:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-03-07 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2025-03-07 05:45:57 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/creep": {
+    "criteria": {
+      "kill": "2025-03-07 05:48:59 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-03-07 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-07 05:59:07 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-03-07 06:01:07 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-07 19:27:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-07 19:27:49 +0000"
     },
     "done": true
   },

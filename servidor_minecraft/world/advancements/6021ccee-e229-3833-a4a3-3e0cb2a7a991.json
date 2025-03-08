@@ -340,6 +340,7 @@
     "criteria": {
       "jacaranda_glade": "2025-03-06 01:14:46 +0000",
       "cold_desert": "2025-03-06 01:58:16 +0000",
+      "field": "2025-03-07 05:01:31 +0000",
       "coniferous_forest": "2025-03-06 01:09:11 +0000",
       "aspen_glade": "2025-03-06 01:12:48 +0000",
       "dune_beach": "2025-03-06 01:14:54 +0000",
@@ -397,6 +398,7 @@
       "minecraft:cold_ocean": "2025-03-06 01:40:33 +0000",
       "minecraft:deep_cold_ocean": "2025-03-06 01:44:04 +0000",
       "minecraft:frozen_ocean": "2025-03-06 02:00:34 +0000",
+      "minecraft:snowy_beach": "2025-03-07 04:52:03 +0000",
       "minecraft:flower_forest": "2025-03-06 01:16:17 +0000",
       "minecraft:plains": "2025-03-06 01:15:20 +0000"
     },
@@ -479,9 +481,11 @@
       "cooked_porkchop": "2025-03-06 01:35:51 +0000",
       "cooked_mutton": "2025-03-07 01:06:24 +0000",
       "cooked_beef": "2025-03-06 01:38:54 +0000",
+      "baked_potato": "2025-03-08 05:42:53 +0000",
       "bread": "2025-03-07 02:04:41 +0000",
       "cookie": "2025-03-07 01:15:37 +0000",
-      "rotten_flesh": "2025-03-07 01:16:47 +0000"
+      "rotten_flesh": "2025-03-07 01:16:47 +0000",
+      "carrot": "2025-03-07 04:52:35 +0000"
     },
     "done": false
   },
@@ -611,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-07 01:42:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-03-07 01:48:22 +0000"
@@ -619,19 +629,62 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-03-07 05:07:37 +0000",
       "minecraft:sheep": "2025-03-07 01:54:49 +0000"
     },
     "done": false
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-07 01:42:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-07 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-07 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-07 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-03-07 05:02:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-08 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-08 05:39:16 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-03-08 05:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-08 05:37:10 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-03-08 05:39:39 +0000"
     },
     "done": true
   },

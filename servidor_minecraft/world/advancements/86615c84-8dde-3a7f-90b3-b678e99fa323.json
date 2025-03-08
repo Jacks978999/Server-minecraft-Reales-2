@@ -338,17 +338,26 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-08 01:31:31 +0000",
+      "rocky_shrubland": "2025-03-07 05:06:09 +0000",
+      "scrubland": "2025-03-07 05:19:55 +0000",
       "floodplain": "2025-03-07 00:50:20 +0000",
       "highland": "2025-03-06 23:29:11 +0000",
+      "jacaranda_glade": "2025-03-07 03:39:08 +0000",
       "jade_cliffs": "2025-03-06 23:31:25 +0000",
       "old_growth_woodland": "2025-03-07 00:58:07 +0000",
+      "maple_woods": "2025-03-08 04:29:24 +0000",
+      "orchard": "2025-03-07 03:37:32 +0000",
       "overgrown_greens": "2025-03-06 23:36:53 +0000",
       "mediterranean_forest": "2025-03-07 01:03:04 +0000",
       "coniferous_forest": "2025-03-06 23:06:33 +0000",
       "redwood_forest": "2025-03-06 23:57:24 +0000",
+      "dune_beach": "2025-03-07 03:36:51 +0000",
       "seasonal_forest": "2025-03-06 23:06:02 +0000",
+      "volcano": "2025-03-08 01:48:22 +0000",
       "pasture": "2025-03-06 23:12:11 +0000",
       "volcanic_plains": "2025-03-07 00:51:01 +0000",
+      "lavender_field": "2025-03-08 01:44:24 +0000",
       "prairie": "2025-03-06 23:25:23 +0000",
       "grassland": "2025-03-06 23:36:59 +0000",
       "gravel_beach": "2025-03-06 23:07:43 +0000",
@@ -394,12 +403,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-08 04:14:52 +0000",
       "minecraft:sunflower_plains": "2025-03-06 23:20:48 +0000",
+      "minecraft:birch_forest": "2025-03-08 01:47:13 +0000",
       "minecraft:beach": "2025-03-07 00:50:13 +0000",
       "minecraft:dark_forest": "2025-03-06 23:44:16 +0000",
+      "minecraft:sparse_jungle": "2025-03-08 01:47:55 +0000",
       "minecraft:river": "2025-03-06 23:26:16 +0000",
       "minecraft:lukewarm_ocean": "2025-03-07 00:02:03 +0000",
       "minecraft:stony_shore": "2025-03-06 23:52:33 +0000",
+      "minecraft:forest": "2025-03-07 03:37:29 +0000",
       "minecraft:ocean": "2025-03-07 00:01:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-06 23:57:21 +0000",
       "minecraft:meadow": "2025-03-06 23:26:52 +0000",
@@ -477,8 +490,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-07 00:04:56 +0000",
+      "minecraft:spider": "2025-03-08 02:10:14 +0000",
+      "minecraft:creeper": "2025-03-07 03:40:44 +0000",
+      "minecraft:zombified_piglin": "2025-03-08 02:20:39 +0000",
       "minecraft:cave_spider": "2025-03-07 00:06:56 +0000",
-      "minecraft:zombie": "2025-03-06 23:43:15 +0000"
+      "minecraft:zombie": "2025-03-06 23:43:15 +0000",
+      "quark:foxhound": "2025-03-07 03:27:36 +0000"
     },
     "done": false
   },
@@ -550,6 +567,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-03-08 01:26:08 +0000",
+      "baked_potato": "2025-03-08 03:42:17 +0000",
       "bread": "2025-03-07 00:52:07 +0000",
       "rotten_flesh": "2025-03-07 00:28:46 +0000",
       "cookie": "2025-03-07 03:12:47 +0000",
@@ -563,15 +582,207 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-07 02:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-03-07 02:59:52 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "slept_in_bed": "2025-03-07 02:57:06 +0000"
+      "sword": "2025-03-07 04:32:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-07 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-03-07 05:10:52 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-03-07 05:10:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-03-07 05:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-07 05:12:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-07 05:21:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-03-08 01:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-08 01:25:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-08 01:30:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-08 01:32:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-08 01:43:08 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-03-08 02:31:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-08 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-08 02:37:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-03-08 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-08 02:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-08 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2025-03-08 02:44:32 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-08 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-08 03:14:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-03-08 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-03-08 03:45:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-03-08 05:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-08 05:12:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-08 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-03-08 04:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-08 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-03-08 04:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-08 05:15:43 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-03-08 05:12:50 +0000"
     },
     "done": true
   },

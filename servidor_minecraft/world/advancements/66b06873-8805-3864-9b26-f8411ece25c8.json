@@ -296,13 +296,23 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-08 05:04:03 +0000",
+      "rocky_shrubland": "2025-03-07 03:31:16 +0000",
+      "scrubland": "2025-03-08 03:32:48 +0000",
       "jacaranda_glade": "2025-03-07 00:42:56 +0000",
+      "maple_woods": "2025-03-08 04:29:44 +0000",
+      "orchard": "2025-03-07 03:24:28 +0000",
+      "field": "2025-03-08 04:12:27 +0000",
+      "overgrown_greens": "2025-03-07 04:33:17 +0000",
+      "mediterranean_forest": "2025-03-08 05:04:58 +0000",
       "coniferous_forest": "2025-03-07 00:14:17 +0000",
       "redwood_forest": "2025-03-07 02:37:51 +0000",
       "aspen_glade": "2025-03-07 00:21:38 +0000",
+      "dune_beach": "2025-03-07 04:15:54 +0000",
       "seasonal_forest": "2025-03-07 00:14:35 +0000",
       "pasture": "2025-03-07 00:26:35 +0000",
       "fir_clearing": "2025-03-07 00:22:36 +0000",
+      "pumpkin_patch": "2025-03-08 03:59:38 +0000",
       "prairie": "2025-03-07 00:22:55 +0000",
       "gravel_beach": "2025-03-07 00:14:16 +0000"
     },
@@ -431,7 +441,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-07 02:48:24 +0000",
+      "cooked_beef": "2025-03-07 03:51:36 +0000",
+      "beef": "2025-03-07 03:24:49 +0000",
       "porkchop": "2025-03-07 00:39:09 +0000",
+      "apple": "2025-03-08 04:08:46 +0000",
+      "mutton": "2025-03-07 03:23:15 +0000",
+      "bread": "2025-03-07 03:48:38 +0000",
       "cooked_chicken": "2025-03-07 03:13:18 +0000"
     },
     "done": false
@@ -466,40 +481,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-03-07 02:43:38 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-03-07 02:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-07 02:41:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-03-07 02:45:44 +0000",
-      "minecraft:spider": "2025-03-07 02:59:54 +0000"
-    },
-    "done": false
-  },
-  "immersive_armors:recipes/misc/bone": {
-    "criteria": {
-      "has_item": "2025-03-07 03:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-03-07 02:45:44 +0000"
     },
     "done": true
   },
@@ -509,13 +493,59 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 02:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-08 04:09:58 +0000",
+      "minecraft:birch_forest": "2025-03-07 04:33:27 +0000",
+      "minecraft:beach": "2025-03-07 04:15:51 +0000",
+      "minecraft:river": "2025-03-07 03:22:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-08 05:03:22 +0000",
+      "minecraft:forest": "2025-03-07 03:24:18 +0000",
+      "minecraft:ocean": "2025-03-07 04:17:26 +0000",
+      "minecraft:savanna": "2025-03-08 03:37:41 +0000",
       "minecraft:plains": "2025-03-07 02:36:40 +0000"
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-07 02:41:34 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-07 02:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-07 02:45:44 +0000",
+      "minecraft:spider": "2025-03-07 02:59:54 +0000",
+      "minecraft:zombie": "2025-03-07 03:40:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-07 02:45:44 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-03-07 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-03-07 02:45:46 +0000"
     },
@@ -527,15 +557,111 @@
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+  "immersive_armors:recipes/misc/bone": {
     "criteria": {
-      "requirement": "2025-03-07 02:45:46 +0000"
+      "has_item": "2025-03-07 03:08:28 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "coded_trigger": "2025-03-07 02:28:33 +0000"
+      "shot_arrow": "2025-03-07 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-07 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-07 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-07 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-03-07 03:50:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 03:57:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-07 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 03:45:40 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-03-08 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-03-08 03:46:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-08 04:26:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-03-08 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-03-08 03:52:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-03-08 03:52:19 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-03-08 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-08 04:30:29 +0000"
     },
     "done": true
   },
