@@ -842,3 +842,25 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [08Mar2025 22:50:35.294] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
 [08Mar2025 22:53:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was burnt to a crisp whilst fighting Mother Lava Squid
 [08Mar2025 22:53:40.989] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[08Mar2025 22:58:43.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> ya intentaste lo de los cristales de lava?
+[08Mar2025 22:59:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> ya, tengo 9 infusionados
+[08Mar2025 22:59:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> vava
+[08Mar2025 22:59:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> esa armadura esta rota
+[08Mar2025 22:59:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> puedes ir al nether tranquilo
+[08Mar2025 22:59:41.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> pero ahorita ando buscando esqueletos de whiter por que tengo sangre de dragon de hielo
+[08Mar2025 22:59:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> que ocupas?
+[08Mar2025 23:00:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> tengo huesos de whiter
+[08Mar2025 23:00:16.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> el hueso de esqueleto negro
+[08Mar2025 23:00:26.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> tengo 4 te sirven?
+[08Mar2025 23:00:28.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> no me donas uno???
+[08Mar2025 23:00:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jacks: Teleported Jacks to Revan_0429]
+[08Mar2025 23:00:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> sip
+[08Mar2025 23:00:52.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Revan_0429 was slain by Jacks
+[08Mar2025 23:00:52.147] [Server thread/INFO] [tombstone/]: The player Revan_0429 has successfully been saved
+[08Mar2025 23:00:59.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was slain by Giddy Blaze
+[08Mar2025 23:00:59.286] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[08Mar2025 23:01:04.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> se me fue la mano
+[08Mar2025 23:01:08.513] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33502, l='ServerLevel[world]', x=201.00, y=31.00, z=-261.00] as it would cause deadlock
+[08Mar2025 23:02:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> tienes los huesos?
+[08Mar2025 23:02:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Revan_0429> por que creo no los agarre
+[08Mar2025 23:02:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacks> Ah si

@@ -788,5 +788,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-03-08 22:57:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
