@@ -903,6 +903,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-03-09 00:28:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-08 22:32:15 +0000"

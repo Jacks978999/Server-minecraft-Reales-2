@@ -6,3 +6,31 @@
 [09Mar2025 00:10:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dawda<--[HERE]
 [09Mar2025 00:16:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was shot by Skeleton
 [09Mar2025 00:16:47.034] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[09Mar2025 00:27:49.661] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63642, l='ServerLevel[world]', x=155.00, y=50.00, z=-539.00] as it would cause deadlock
+[09Mar2025 00:29:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks fell from a high place
+[09Mar2025 00:29:16.734] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
+[09Mar2025 00:29:49.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jacks lost connection: Disconnected
+[09Mar2025 00:29:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks left the game
+[09Mar2025 00:29:58.466] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[09Mar2025 00:29:58.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 00:29:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 00:29:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 00:29:58.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Mar2025 00:29:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Mar2025 00:29:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Mar2025 00:29:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/gamma_creatures:gamma_dimension
+[09Mar2025 00:29:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[09Mar2025 00:29:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09Mar2025 00:29:58.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gamma_dimension): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[09Mar2025 00:29:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Mar2025 00:29:59.117] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Mar2025 00:29:59.118] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Mar2025 00:29:59.119] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[09Mar2025 00:29:59.122] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
