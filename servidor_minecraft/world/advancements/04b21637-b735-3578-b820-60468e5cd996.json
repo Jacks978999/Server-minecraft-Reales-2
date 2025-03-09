@@ -903,33 +903,21 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/succubus": {
-    "criteria": {
-      "kill": "2025-03-09 00:28:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-08 22:32:15 +0000"
     },
     "done": true
   },
-  "stellarity:nether/a_piece_of_otherworld": {
-    "criteria": {
-      "criteria": "2025-03-08 23:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-09 00:04:50 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:main/wither_cow": {
     "criteria": {
       "kill": "2025-03-08 23:20:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-03-08 23:21:23 +0000"
     },
     "done": true
   },
@@ -942,6 +930,24 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-03-09 00:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-09 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-03-09 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mummy": {
+    "criteria": {
+      "kill": "2025-03-09 01:02:49 +0000"
     },
     "done": true
   },
