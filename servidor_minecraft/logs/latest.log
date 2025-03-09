@@ -4,3 +4,5 @@
 [09Mar2025 00:07:46.885] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
 [09Mar2025 00:10:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Mar2025 00:10:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dawda<--[HERE]
+[09Mar2025 00:16:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacks was shot by Skeleton
+[09Mar2025 00:16:47.034] [Server thread/INFO] [tombstone/]: The player Jacks has successfully been saved
