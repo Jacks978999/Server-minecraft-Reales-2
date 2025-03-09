@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-09 00:04:50 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/wither_cow": {
     "criteria": {
       "kill": "2025-03-08 23:20:45 +0000"
