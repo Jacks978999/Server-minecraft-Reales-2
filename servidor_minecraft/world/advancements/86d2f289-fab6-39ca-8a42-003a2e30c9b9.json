@@ -924,15 +924,15 @@
     },
     "done": false
   },
-  "tombstone:adventure/use_true_sight": {
-    "criteria": {
-      "has_magic_scroll": "2025-03-07 19:27:54 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-03-07 19:27:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-07 19:27:54 +0000"
     },
     "done": true
   },
